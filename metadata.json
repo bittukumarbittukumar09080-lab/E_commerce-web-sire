@@ -1,0 +1,6 @@
+{
+  "name": "London Style - E-Commerce Website",
+  "description": "Men's Fashion E-Commerce Website - Dress Smart. Live in Style. Customer & Admin Panels with OTP Login, Product Catalog, Cart, Wishlist, Order Tracking, Official GST Bills & Bulk Purchases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
